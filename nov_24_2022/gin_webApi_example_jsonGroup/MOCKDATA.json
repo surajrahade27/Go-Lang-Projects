@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "title": "AVATAR",
+        "artist": "SURAJ",
+        "price": 56.99
+    },
+    {
+        "id": "2",
+        "title": "BHEDIYAA",
+        "artist": "CHIKITA",
+        "price": 17.99
+    },
+    {
+        "id": "3",
+        "title": "GRROVY",
+        "artist": "NEHA",
+        "price": 39.99
+    },
+    {
+        "id": "11",
+        "title": "Blue Train",
+        "artist": "PALASH",
+        "price": 56.99
+    },
+    {
+        "id": "12",
+        "title": "Jeru",
+        "artist": "Gerry Mulligan",
+        "price": 17.99
+    },
+    {
+        "id": "13",
+        "title": "Sarah Vaughan and Clifford Brown",
+        "artist": "Sarah Vaughan",
+        "price": 39.99
+    }
+]

@@ -9,7 +9,7 @@
             "type": "go",
             "request": "launch",
             "mode": "auto",
-            "program": "${workspaceFolder}/nov_24_2022/gin_webApi_example_jsonGroup/main.go"
+            "program": "${workspaceFolder}/main.go"
         }
     ]
 }

@@ -5,11 +5,18 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "Launch file",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${workspaceFolder}/tests/main_test.go"
+        },
+        {
             "name": "Launch Package",
             "type": "go",
             "request": "launch",
             "mode": "auto",
-            "program": "${workspaceFolder}/nov_24_2022/gin_webApi_example_jsonGroup/main.go"
+            "program": "${workspaceFolder}/readJson.go"
         }
     ]
 }
