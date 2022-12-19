@@ -1,0 +1,5 @@
+#Get All Campaigns
+GET http://localhost:8080/campaings/getCampaings
+
+#Get Campaign By Id
+GET http://localhost:8080/campaings/2
